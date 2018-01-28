@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Factotum</string>
+    <string name="user_profile">User Profile</string>
+
+    <!-- Strings related to login -->
+
+    <string name="zendeskUrl">https://fakt.zendesk.com</string>
+    <string name="applicationId">2a7ac93ed8f3dd296785571e9d272bbe0272b483e19164a3</string>
+    <string name="oauthClientId">mobile_sdk_client_f01f9273e0b7b34ae0ed</string>
+
+
+    <!--<string name="label_google_sign_in">factotum + Google Sign In</string>-->
+    <!--<string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with factotum.</string>-->
+
+    <!--<string name="label_facebook_login">factotum + Facebook Login</string>-->
+    <!--<string name="desc_facebook_login">Use a Facebook Login credential to authenticate with factotum.</string>-->
+
+    <!--<string name="label_twitter_login">factotum + Twitter Login</string>-->
+    <!--<string name="desc_twitter_login">Use a Twitter Login credential to authenticate with factotum.</string>-->
+
+    <!--<string name="label_anonymous_auth">Anonymous Authentication</string>-->
+    <!--<string name="desc_anonymous_auth">Sign in anonymously and then later upgrade to a full factotum Auth user..</string>-->
+
+    <!--<string name="label_custom_auth">Custom Authentication</string>-->
+    <!--<string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with factotum.</string>-->
+
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create an account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="loading">Loading….</string>
+    <string name="signed_out">Signed out</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_factotum_lockup">Factotum logo</string>
+
+    <!--<string name="google_status_fmt">Google User: %s</string>-->
+    <!--<string name="google_title_text">Google Sign In</string>-->
+
+    <!--<string name="facebook_status_fmt">Facebook User: %s</string>-->
+    <!--<string name="facebook_title_text">Facebook Login</string>-->
+
+    <string name="emailpassword_status_fmt">%s</string>
+
+    <!--<string name="twitter_status_fmt">Twitter User: %s</string>-->
+    <!--<string name="twitter_title_text">Twitter Login</string>-->
+
+    <string name="request_list_activity_title">My jobs</string>
+    <string name="contact_fragment_title">Create a new job</string>
+    <string name="request_list_fragment_error_message">We are currently performing maintenance</string>
+    <string name="rate_my_app_dialog_feedback_send_error_toast">Server down for maintenance</string>
+    <string name="contact_fragment_description_hint">I need a Factotum to fix my ....</string>
+    <string name="welcome">Welcome</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="electrical">Electrical</string>
+    <string name="plumbing">Plumbing</string>
+    <string name="air_conditioning">Air Conditioning</string>
+    <string name="job_tracker">Job Tracker</string>
+    <string name="please_login">Hello, please login</string>
+    <string name="hello">"Hello, "</string>
+    <string name="please_register">You have to register first</string>
+</resources>

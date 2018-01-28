@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1073583772229",
+    "firebase_url": "https://factotum-ab325.firebaseio.com",
+    "project_id": "factotum-ab325",
+    "storage_bucket": "factotum-ab325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073583772229:android:245736c8e69f7cab",
+        "android_client_info": {
+          "package_name": "xyz.aldosari.factotum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073583772229-vl6badaolu6gt2ijr2vbmf4l3vqkmiqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ZoRDEOW_YnDEWhJhQQk21swAOjjEQgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
